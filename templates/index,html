@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Портфолио</title>
+</head>
+<body style="background-color: #55D52B">
+    <h1><a href="/posts">Проекты</a></h1>
+    <h2>Добавление проектов</h2>
+    <form method="post">
+        <input type="text" name="title" id="title"><br>
+        <input type="text" name="link" id="link"><br>
+        <input type="submit"  value="Отправить">
+    </form>
+
+</body>
+</html>
